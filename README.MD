@@ -7,3 +7,6 @@
 
    You can also check the same notebook and datasets in Kaggle I have created and uploaded them over there doing the same thing . just with better comments , do checkout the links below for the same . 
 
+```
+https://www.kaggle.com/code/darshanprabhu09/time-series-analysis-on-big-tech-stocks
+```
