@@ -10,3 +10,7 @@
 ```
 https://www.kaggle.com/code/darshanprabhu09/time-series-analysis-on-big-tech-stocks
 ```
+
+```
+https://www.kaggle.com/datasets/darshanprabhu09/stock-prices-for
+```
